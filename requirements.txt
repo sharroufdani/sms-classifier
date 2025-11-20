@@ -1,0 +1,18 @@
+# requirements.txt for the SMS Classification Streamlit App
+
+# Data handling and numerical operations
+pandas
+numpy
+
+# Machine Learning: Feature extraction and model
+scikit-learn
+nltk
+joblib
+
+# Visualization and Plotting
+matplotlib
+seaborn
+
+# Application Deployment and Web UI
+streamlit
+pyngrok
