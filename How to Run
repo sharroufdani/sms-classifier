@@ -1,0 +1,16 @@
+## How to Run
+
+1. Clone the repository:
+   git clone https://github.com/sharroufdani/sms-classifier.git
+
+2. Install dependencies:
+   pip install -r requirements.txt
+
+3. Train the model (optional if clf.joblib exists):
+   python classifier.py
+
+4. Run the Streamlit app:
+   streamlit run app.py
+
+5. Access public URL:
+   If using ngrok, replace the placeholder token with your personal token to expose the app publicly.
