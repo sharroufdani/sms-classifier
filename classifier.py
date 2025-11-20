@@ -133,7 +133,7 @@ joblib.dump(vectorizer, 'vectorizer.joblib')
 
 !pip install pyngrok streamlit
 
-!ngrok authtoken 35jt4mAXNJflqSJRTr0jMGZwZvh_2qgZwXreiazqpmBmD9gHc
+!ngrok authtoken #add your ngrok token
 
 from pyngrok import ngrok
 
